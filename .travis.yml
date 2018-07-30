@@ -5,3 +5,6 @@ php:
 
 script:
 - php -v
+- composer --version
+- composer install
+- phpunit
