@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wu\\Util\\Nonce\\": "src"
+            "Wu\\Nonce\\": "src"
         }
     }
 }
