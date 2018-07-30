@@ -2,6 +2,7 @@
     "name": "wbswjc/nonce",
     "description": "A Nonce Generator",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Wu Jun Chao",
