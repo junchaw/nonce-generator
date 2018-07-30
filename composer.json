@@ -1,0 +1,22 @@
+{
+    "name": "wbswjc/nonce",
+    "description": "A Nonce Generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Wu Jun Chao",
+            "email": "me@wujunchao.com"
+        }
+    ],
+    "require": {
+        "php": ">7.1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wu\\Util\\Nonce\\": "src"
+        }
+    }
+}
