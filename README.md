@@ -5,7 +5,7 @@
 ## # Install
 
 ```shell
-composer require "dxy/util-nonce"
+composer require "wbswjc/util-nonce"
 ```
 
 ## # Usage
